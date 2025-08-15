@@ -1,1 +1,1 @@
-# ecolab-web3.github.io
+# ecolab.github.io
